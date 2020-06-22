@@ -1,3 +1,0 @@
-[submodule "server/models/seq2seq"]
-	path = server/models/seq2seq
-	url = https://github.com/8horn/seq2seq.git
