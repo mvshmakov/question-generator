@@ -131,3 +131,5 @@ dmypy.json
 # Custom
 .history
 .DS_Store
+
+stanford-corenlp-4.0.0
